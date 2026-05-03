@@ -1,6 +1,7 @@
 ---
 title: "Competition and Dependence: Mexico, China, and the New Export Routes to the United States"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-competition-dependence
 date: 2026-01-01
 venue: 'SSRN Working Papers'
