@@ -1,6 +1,7 @@
 ---
 title: "Effects of Automation on Mexican Automotive Employment: 2013–2022"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-automation-employment
 date: 2024-08-17
 venue: 'The Indian Journal of Labour Economics'
