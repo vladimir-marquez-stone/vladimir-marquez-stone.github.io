@@ -1,6 +1,7 @@
 ---
 title: "The expansive wave of the fifth long cycle in the United States: empirical evidence from the rate of profit"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-fifth-Kondratiev
 date: 2026-01-01
 venue: 'Investigación Económica'
