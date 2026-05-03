@@ -1,6 +1,7 @@
 ---
 title: "Industrial Policy in the Mexican Automotive Sector: An Analysis of Sustainable Development Programs for Guanajuato"
 collection: publications
+category: books
 permalink: /publication/2024-industrial-policy-guanajuato-en
 date: 2024-01-01
 venue: 'National Autonomous University of Mexico'
