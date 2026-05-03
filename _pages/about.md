@@ -12,12 +12,12 @@ I am an economist working on labor economics, industrial organization, and devel
 I am currently affiliated with the National Autonomous University of Mexico (UNAM) and have completed graduate coursework in Economics at Binghamton University.
 
 My research employs empirical methods with political economy approaches to study structural change, technological transformation, and labor markets.
-
-
-
-
-
-
-
-
- ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
