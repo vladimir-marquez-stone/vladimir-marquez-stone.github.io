@@ -9,5 +9,5 @@ paperurl: 'https://tesiunamdocumentos.dgb.unam.mx/ptd2023/octubre/0849016/Index.
 citation: 'Márquez Stone, V. (2023). Effects of Automation on Mexican Automotive Employment: 2013–2022. TESIUNAM.'
 ---
 This thesis analyses the empirical relationship between the introduction of
-automation technology—industrial robots—and the employment and wages of
+automation technology and the employment and wages of
 workers in the Mexican automotive industry from 2013 to 2022.
